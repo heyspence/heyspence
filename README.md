@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
   <img src="https://spencerheywood.com/images/misc/spencer-headshot-drawing.png" width="100"/>
 </div>
 
