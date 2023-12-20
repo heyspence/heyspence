@@ -1,4 +1,12 @@
+<div id="header" align="center">
+  <img src="https://spencerheywood.com/images/misc/spencer-headshot-drawing.png" width="100"/>
+</div>
+
 ### Hi there 👋
+
+- 🔭 I’m currently working on some awesome portfolio projects.
+- 🌱 I’m currently learning DS&A
+- 💬 Ask me about web hosting with Respberry Pi
 
 <!--
 **heyspence/heyspence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
