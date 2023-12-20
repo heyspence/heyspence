@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://spencerheywood.com/images/misc/spencer-headshot-drawing.png" width="100" style="border-radius: 50%"/>
+  <img src="https://spencerheywood.com/images/misc/spencer-headshot-drawing.png" width="100"/>
 </div>
 
 ### Hi there 👋
