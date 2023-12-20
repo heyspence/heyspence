@@ -11,8 +11,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on some awesome portfolio projects.
-- 🌱 I’m currently learning DS&A
+- 🔭 I’m currently working on some awesome personal projects and sites
+- 🌱 I’m currently on that DS&A grind (iykyk)
 - 💬 Ask me about web hosting with Respberry Pi
 
 <!--
