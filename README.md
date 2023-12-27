@@ -11,8 +11,10 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on some awesome personal projects and sites
-- 🌱 I’m currently on that DS&A grind (iykyk)
+- 🔭 I’m currently working on the next iteration of SERVO:
+<img src="https://spencerheywood.com/images/misc/lilymaid-screenshot.png" alt="lily maid servo screenshot" width="600" height="auto">
+<img src="https://spencerheywood.com/images/misc/servo-screenshot.png" alt="recurring services servo screenshot" width="600" height="auto">
+- 🌱 I’m currently on that DS&A grind
 - 💬 Ask me about web hosting with Respberry Pi
 
 
