@@ -17,10 +17,12 @@
 - 🔭 I’m currently working on a clone of SERVO:
 <img src="https://spencerheywood.com/images/misc/lilymaid-screenshot.png" alt="lily maid servo screenshot" width="600" height="auto">
 
-- 😄 A cool feature or two:
-<img src="https://spencerheywood.com/images/dash_door/dashdoor_screenshot.png" alt="googl maps feature on doordash clone" width="600" height="auto">
-
-![Interactive Canvas Clicker Game](https://spencerheywood.com/images/misc/gameplay.gif)
+- 😄 A cool feature or two: Google Maps Integration
+<img src="https://spencerheywood.com/images/dash_door/dashdoor_screenshot.png" alt="google maps feature on doordash clone" width="600" height="auto">
+Interactive Canvas Clicker Game
+<img src="https://spencerheywood.com/images/misc/nugget_rush_screenshot.png" alt="interactive canvas clicker game" width="600" height="auto">
+Highly Responsive Search Bar
+<img src="https://spencerheywood.com/images/misc/home_keeper_screenshot.png" alt="highly responsive search bar" width="600" height="auto">
 
 FOR RECRUITERS 💪:
 First off, I'd like to say thank you for checking me out! I understand the large investment that hiring new employees entails and I always appreciate the chance to be apart of something bigger than myself. If you haven't yet, be sure to head over to [my personal website](https://spencerheywood.com/) which has all the live links to some of my recent (self-hosted) personal projects.
