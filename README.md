@@ -14,10 +14,13 @@
 
 - 🌱 I’m currently on that DS&A grind
 - 💬 Ask me about web hosting with Respberry Pi
-- 🔭 I’m currently working on the next iteration of SERVO:
+- 🔭 I’m currently working on a clone of SERVO:
 <img src="https://spencerheywood.com/images/misc/lilymaid-screenshot.png" alt="lily maid servo screenshot" width="600" height="auto">
-<img src="https://spencerheywood.com/images/misc/servo-screenshot.png" alt="recurring services servo screenshot" width="600" height="auto">
 
+- 😄 A cool feature or two:
+<img src="https://spencerheywood.com/images/dash_door/dashdoor_screenshot.png" alt="googl maps feature on doordash clone" width="600" height="auto">
+
+![Interactive Canvas Clicker Game](https://spencerheywood.com/images/misc/gameplay.gif)
 
 FOR RECRUITERS 💪:
 First off, I'd like to say thank you for checking me out! I understand the large investment that hiring new employees entails and I always appreciate the chance to be apart of something bigger than myself. If you haven't yet, be sure to head over to [my personal website](https://spencerheywood.com/) which has all the live links to some of my recent (self-hosted) personal projects.
