@@ -11,8 +11,6 @@
 
 ### Hi there 👋
 
-
-- 🌱 I’m currently on that DS&A grind
 - 💬 Ask me about web hosting with Respberry Pi
 - 🔭 I’m currently working on a clone of SERVO:
 <img src="https://spencerheywood.com/images/misc/lilymaid-screenshot.png" alt="lily maid servo screenshot" width="600" height="auto">
