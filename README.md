@@ -12,7 +12,7 @@
 ### Hi there 👋
 
 - 💬 Ask me about web hosting with Respberry Pi
-- 🔭 I’m currently working on a clone of SERVO:
+- 🔭 I’m working at Servo:
 <img src="https://spencerheywood.com/images/misc/lilymaid-screenshot.png" alt="lily maid servo screenshot" width="600" height="auto">
 
 - 😄 A cool feature or two: Google Maps Integration
