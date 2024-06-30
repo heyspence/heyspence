@@ -13,6 +13,6 @@
 
 - Ask me about web hosting with Respberry Pi
 
-Be sure to head over to [my personal website](https://spencerheywood.com/) which has all the live links to some of my recent (self-hosted) personal projects.
+Be sure to head over to [my personal website](https://spencerheywood.com/) which has all the live links to some of my recent personal and professional projects.
 
 Spencer Heywood
